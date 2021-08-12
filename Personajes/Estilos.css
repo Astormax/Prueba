@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    padding-top: 13%;
+}
+
+header{
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(114, 39, 39);
+    font-size: 50px;
+}
+
+body{
+    background: rgb(83, 57, 57)
+}
+
+h2{
+    color: rgb(192, 131, 131);
+}
+
+p{
+    color: rgb(177, 121, 121);
+}

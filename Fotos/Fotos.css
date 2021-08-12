@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(black, white);
+}
+h1{
+    text-align: center;
+    padding-top: 50px ;
+}
+.imagenes{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+}

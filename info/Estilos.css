@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: lightcoral;
+}
+img{
+    width: 640px;
+    height: 480px;
+     margin-right: 25px;
+    }
+p{
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 20px;
+
+}

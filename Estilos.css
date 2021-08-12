@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    background-image: url(guts.jpg)  
+}
+nav ul a{
+    list-style-type: none;
+    color:rgb(126, 49, 49);
+    font-family: "Qahiri";
+    font-size: 55px;
+   
+    
+}
+nav ul {
+    padding-top: 1%;
+    text-align: center;
+}
+
+header{
+    font-size: 3em;
+    text-align: center;
+    font-family: "Bebas Neue";
+     
+}
+footer{
+    padding-top: 50%;
+}
+nav ul li{
+    transition-property: background;
+    transition-duration: 1s;
+}
+
+nav ul li:hover{
+    background: rgb(185, 51, 51);
+}
+
+h1 {
+  transition-duration: 3s;
+}
+

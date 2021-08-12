@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(rgb(48, 41, 41), white);
+    
+}
+
+h1{
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(165, 59, 59) ;
+}
